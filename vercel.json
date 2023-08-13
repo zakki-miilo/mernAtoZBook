@@ -1,0 +1,9 @@
+{
+    "builds": [
+      {
+        "src": "mern_a_to_z_client/package.json",
+        "use": "@vercel/node"
+      }
+    ]
+  }
+  
